@@ -1,5 +1,11 @@
 # Learn OpenID Connect
 
-Just for learning purposes
+My schemes for better understanding OAuth/OIDC flows
 
-Stay tuned
+# To-do list
+
+- [x] Authorization Code Flow
+- [x] Authorization Code with PKCE Flow
+- [x] Client Credentials Flow
+- [ ] Refresh Token Flow
+- [ ] ... 
