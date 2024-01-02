@@ -7,5 +7,5 @@ My schemes for better understanding OAuth/OIDC flows
 - [x] Authorization Code Flow
 - [x] Authorization Code with PKCE Flow
 - [x] Client Credentials Flow
-- [ ] Refresh Token Flow
+- [x] Refresh Token Flow
 - [ ] ... 
